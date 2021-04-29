@@ -260,10 +260,6 @@
 - name: Joy Damousi
   slug: joy-damousi
 
-- name: Joy Davidson
-  slug: joy-davidson
-  avatar: ../images/authors/joy-davidson.jpeg
-
 - name: Emmanuel Decker
   slug: emmanuel-decker
 
@@ -391,9 +387,6 @@
   description:
     Daniele is a designer and full-stack developer at the Luxembourg Centre for
     Contemporary and Digital History (C²DH) of the University of Luxembourg.
-
-- name: Kerstin Helbig
-  slug: kerstin-helbig
 
 - name: Henrike Hoffmann
   slug: henrike-hoffmann
@@ -623,9 +616,6 @@
 - name: Nikos Minadakis
   slug: nikos-minadakis
 
-- name: Annalisa Montesanti
-  slug: annalisa-montesanti
-
 - name: Emmanuelle Morlock
   slug: emmanuelle-morlock
   avatar: ../images/authors/emmanuelle-morlock.jpg
@@ -684,9 +674,6 @@
 - name: Kevin O'Connor
   slug: kevin-oconnor
   avatar: ../images/authors/kevin-oconnor.png
-
-- name: Ryan O'Connor
-  slug: ryan-oconnor
 
 - name: Costas Papadopoulos
   slug: costas-papadopoulos
@@ -988,14 +975,6 @@
 - name: Dieter Van Uytvanck
   slug: dieter-van-uytvanck
 
-- name: Oliver Watteler
-  slug: oliver-watteler
-  avatar: ../images/authors/oliver-watteler.jpeg
-
-- name: Katrin Weller
-  slug: katrin-weller
-  avatar: ../images/authors/katrin-weller.jpeg
-
 - name: Melvin Wevers
   slug: melvin-wevers
 
@@ -1017,10 +996,6 @@
 
 - name: Jolan Wuyts
   slug: jolan-wuyts
-
-- name: Angus whyte
-  slug: angus-whyte
-  avatar: ../images/authors/angus-whyte.jpeg
 
 - name: Gerben Zaagsma
   slug: gerben-zaagsma
