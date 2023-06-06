@@ -1,6 +1,15 @@
 firstName: Walter
 lastName: Scholger
-avatar: images/walter-scholger.jpg
+description: >-
+  Walter Scholger studied History and Applied Cultural Studies (Cultural
+  Management) in Graz (AT) and Maynooth (IE) and serves as department manager
+  and deputy director of the Centre for Information Modelling - Austrian Centre
+  for Digital Humanities at the University of Graz.
+
+  He is a member of the Board of Directors of the German-speaking DH association (DHd) and the speaker of the Austrian CLARIAH-AT Digital Humanities consortium.
+
+  In DARIAH-EU, he serves as the Austrian Deputy National Coordinator and as co-chair of the Working Group "Ethics and Legality in Digital Arts and Humanities" (ELDAH).
+avatar: images/card.jpg
 email: walter.scholger@uni-graz.at
 twitter: "@wscholger"
 website: https://online.uni-graz.at/kfu_online/pl/ui/$ctx;lang=DE/wbForschungsportal.cbShowPortal?pPersonNr=50871&pMode=I
